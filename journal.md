@@ -7,3 +7,6 @@ Welcome to the journal
 Thaut et al. (2020)
 Fischer et al. (2021)
 
+#Results
+Add new results here
+
