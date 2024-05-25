@@ -13,6 +13,10 @@ Add new results here
 Add figures section
 
 #Write conclusion
-This is my conclusio
+This is my conclusion
 
 #Change order of authors
+This is my conclusion
+
+#Add author affiliations
+This is my list of authors
