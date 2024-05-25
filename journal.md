@@ -14,3 +14,6 @@ Add figures section
 
 #Write conclusion
 This is my conclusion
+
+#Add author affiliations
+This is my list of authors
