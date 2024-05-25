@@ -10,3 +10,5 @@ Fischer et al. (2021)
 #Results
 Add new results here
 
+Add figures section
+
